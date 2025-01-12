@@ -1,0 +1,23 @@
+title: "16-761: Mobile Robots"
+description: ""
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "" # The base hostname & protocol for your site, e.g. https://example.com
+
+# Build settings
+markdown: kramdown
+theme: liquid
+plugins:
+  - jekyll-feed
+
+# Optional settings
+author:
+  name: "Wennie Tabib"
+  email: "wtabib@cmu.edu"
+
+base: ''
+
+# If you have a custom domain, specify it here:
+# url: "https://myclasswebsite.org"
+
+# If using GitHub Pages, you can set this for your repository:
+# baseurl: "/my-class-repo"

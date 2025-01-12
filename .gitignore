@@ -1,0 +1,5 @@
+.DS_Store
+data/Video.mp4
+.vscode
+_site
+tmp
