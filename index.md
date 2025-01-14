@@ -10,7 +10,7 @@ Hello students and visitors! This is the official webpage for
 
 - **Instructor**: Wennie Tabib
 - **Office**: LL 05, Building Collaborative Innovation Commons
-- **Contact**: wtabib <at> cmu.edu
+- **Contact**: wtabib (at) cmu.edu
 
 This lecture-based course comprises four modules that present both
 theory and practice of mobile robot algorithms. These modules will be
