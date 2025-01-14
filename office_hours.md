@@ -8,8 +8,8 @@ permalink: /office_hours/
 
 | Instructor | Date/Time | Location |
 |-----------------|----------------|----------------|
-| **Wennie**   | Tuesdays 1700-1800ET  | CIC LL05 or by appointment   |
-| **Lucky**    | TBD  | TBD or by appointment |
+| **Wennie**   | Tuesdays 1700-1800ET  | NSH 4513 or by appointment  |
+| **Lucky**    | Fridays 1700-1800ET | NSH 4513 or by appointment|
 | **Willa**  | TBD  | TBD by appointment |
 | **Renos**   | TBD  | TBD by appointment |
 |-----------------|----------------|----------------|
