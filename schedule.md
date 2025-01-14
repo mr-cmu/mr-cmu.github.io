@@ -12,7 +12,6 @@ title: "16-761: Mobile Robots"
       <th>Lecture</th>
       <th>Assignment Released</th>
       <th>Assignment Due</th>
-      <th>Instructor</th>
     </tr>
   </thead>
   <tbody>
@@ -22,7 +21,6 @@ title: "16-761: Mobile Robots"
       <td>{{ e.lecture }}</td>
       <td>{{ e.assignment_released }} {% if e.assignmenturl %} <a href="{{ e.assignmenturl }}">here</a> {% endif %}</td>
       <td>{{ e.assignment_due}}</td>
-      <td>{{ e.instructor }}</td>
     </tr>
     {% endfor %}
   </tbody>
