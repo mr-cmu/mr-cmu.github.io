@@ -11,5 +11,5 @@ permalink: /office_hours/
 | **Wennie**   | Tuesdays 1700-1800ET  | NSH 4513 or by appointment  |
 | **Lucky**    | Fridays 1700-1800ET | NSH 4513 or by appointment|
 | **Willa**  | TBD  | TBD by appointment |
-| **Renos**   | TBD  | TBD by appointment |
+| **Renos**   | Wednesdays 1700-1800ET  | NSH 4513 or by appointment (remote until Jan. 26) |
 |-----------------|----------------|----------------|
