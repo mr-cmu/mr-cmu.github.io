@@ -8,6 +8,7 @@ title: "Home"
 Hello students and visitors! This is the official webpage for
 **16-761: Mobile Robots**.
 
+- **Class Dates and Times**: Tuesdays and Thursdays 1100-1220 in NSH 1305
 - **Instructor**: Wennie Tabib
 - **Office**: LL 05, Building Collaborative Innovation Commons
 - **Contact**: wtabib (at) cmu.edu
@@ -74,7 +75,7 @@ help them finalize submissions. Grades will be returned within one
 week of homework due dates.
 
 # Project
-Students will be required to work together in teams of 3-4 to complete
+Students will be required to work together in teams of 2-4 to complete
 a group project. The project will be worth 10% of the final grade.  2%
 of that grade will come from group formation and uploading a project
 proposal by Feb. 20 containing bullet points of the motivation,
