@@ -14,14 +14,15 @@ Hello students and visitors! This is the official webpage for
 
 This lecture-based course comprises four modules that present both
 theory and practice of mobile robot algorithms. These modules will be
-associated with four assignments through which students will build a
-autonomy software package. In the first lab, we will add vehicle
-dynamics simulation and linear control capabilities.  The second
-assignment aims at adding mapping and state estimation capability. The
-third assignment will enable students to add motion planners. Finally,
-the fourth assignment combines the capabilities from the previous
-modules into an exploration system.
-
+associated with five assignments through which students will build a
+autonomy software package. A short introductory assignment (assignment
+0) will serve as an introduction to manipulating rotations and
+transforms. In assignment 1, we will add vehicle dynamics simulation
+and linear control capabilities.  Assignment 2 aims at adding
+mapping and state estimation capability. Assignment 3 will
+enable students to add motion planners. Finally, in the assignment 4
+we will combine the capabilities from the previous modules into an
+exploration system.
 
 # Learning Objectives
 When you complete this course, you will be able to:
@@ -48,11 +49,36 @@ programming languages throughout the course. Your final grade in this
 course will be assessed according to:
 
 * 90% Homework
+  * assignment0: 10% (Rotations & Transforms)
+  * assignment1: 20% (Quadrotor Dynamics & Control)
+  * assignment2: 20% (Mapping & State Estimation)
+  * assignment3: 20% (Quadrotor Planning)
+  * assignment4: 20% (Exploration)
 * 10% Project
+  * 2%: form groups and upload project proposal by Feb. 20
+    * Upload a document containing bullet points of the following information for your project:
+	  * Motivation
+	  * Related work
+	  * Approach you will implement
+	  * Evaluation
+	  * Anticipated results
+  * 2%: upload checkpoint document by March 18
+    * 1-2 paragraphs on what was completed and what needs to be finished
+  * 6%: final project presentation (Apr. 17, Apr. 22, Apr. 24)
 
 # Homework
-Four mandatory assignments will be provided during the semester. All
+Five mandatory assignments will be provided during the semester. All
 homework will be distributed using GitHub and collected using
 AutoLab. AutoLab will enable auto-grading and feedback for students to
 help them finalize submissions. Grades will be returned within one
 week of homework due dates.
+
+# Project
+Students will be required to work together in teams of 3-4 to complete
+a group project. The project will be worth 10% of the final grade.  2%
+of that grade will come from group formation and uploading a project
+proposal by Feb. 20 containing bullet points of the motivation,
+related work, approach, evaluation, and anticipated results. 2% of the
+grade will come from uploading a checkpoint document by March 18. The
+remaining 6% will come from the final project presentation, which is
+scheduled on the last 3 days of class.
