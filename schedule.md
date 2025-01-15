@@ -18,7 +18,7 @@ title: "16-761: Mobile Robots"
     {% for e in site.data.schedule %}
     <tr>
       <td>{{ e.date }}</td>
-      <td>{{ e.lecture }} {% if e.slideurl %} <a href="{{ e.slideurl }}">slides</a>{% endif %}</td>
+      <td>{{ e.lecture }} {% if e.slideurl %} <a href="{{ e.slideurl }}">slides</a>{% endif %}{% if e.videourl %} <a href="{{ e.videourl }}">video</a>{% endif %}</td>
       <td>{{ e.assignment_released }} {% if e.assignmenturl %} <a href="{{ e.assignmenturl }}">here</a> {% endif %}</td>
       <td>{{ e.assignment_due}}</td>
     </tr>
