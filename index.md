@@ -83,3 +83,6 @@ related work, approach, evaluation, and anticipated results. 2% of the
 grade will come from uploading a checkpoint document by March 18. The
 remaining 6% will come from the final project presentation, which is
 scheduled on the last 3 days of class.
+
+## Previous Course Offerings
+<a href="./previous_offerings/2024spring/index.html">Mobile Robots</a> by Wennie Tabib, Spring 2024
