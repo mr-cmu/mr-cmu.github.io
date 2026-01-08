@@ -85,4 +85,6 @@ remaining 6% will come from the final project presentation, which is
 scheduled on the last 3 days of class.
 
 ## Previous Course Offerings
+<a href="./previous_offerings/2025spring/index.html">Mobile Robots</a> by Wennie Tabib, Spring 2025
+
 <a href="./previous_offerings/2024spring/index.html">Mobile Robots</a> by Wennie Tabib, Spring 2024
