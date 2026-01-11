@@ -8,7 +8,7 @@ permalink: /office_hours/
 
 | Instructor | Date/Time | Location |
 |-----------------|----------------|----------------|
-| **Wennie**   | Tuesdays 1700-1800ET  | NSH 4513 or by appointment  |
-| **Renos**  | Thursdays 1700-1800ET | NSH 4513 or by appointment |
-| **Lucky**    | Fridays 1700-1800ET | NSH 4513 or by appointment|
+| **Mike**     | Wednesdays 1700-1800ET | NSH 1101 or by appointment |
+| **Wennie**   | Tuesdays 1700-1800ET  | NSH 2201E or by appointment  |
+| **Lucky**    | Fridays 1700-1800ET | NSH 1101 or by appointment|
 |-----------------|----------------|----------------|

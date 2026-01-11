@@ -8,9 +8,9 @@ title: "Home"
 Hello students and visitors! This is the official webpage for
 **16-761: Mobile Robots**.
 
-- **Class Dates and Times**: Tuesdays and Thursdays 1100-1220 in NSH 1305
+- **Class Dates and Times**: Tuesdays and Thursdays 1100-1220 in Posner Hall (POS) 152
 - **Instructor**: Wennie Tabib
-- **Office**: LL 05, Building Collaborative Innovation Commons
+- **Office**: NSH 2201E
 - **Contact**: wtabib (at) cmu.edu
 
 This lecture-based course comprises four modules that present both
@@ -56,32 +56,44 @@ course will be assessed according to:
   * assignment3: 20% (Quadrotor Planning)
   * assignment4: 20% (Exploration)
 * 10% Project
-  * 2%: form groups and upload project proposal by Feb. 20
+  * 2%: form groups and upload project proposal by Mar. 10
     * Upload a document containing bullet points of the following information for your project:
 	  * Motivation
 	  * Related work
 	  * Approach you will implement
 	  * Evaluation
 	  * Anticipated results
-  * 2%: upload checkpoint document by March 18
-    * 1-2 paragraphs on what was completed and what needs to be finished
-  * 6%: final project presentation (Apr. 17, Apr. 22, Apr. 24)
+  * 8%: final project presentation (Apr. 16, Apr. 21, Apr. 23)
 
-# Homework
+# Homework and Late Day Policy
 Five mandatory assignments will be provided during the semester. All
 homework will be distributed using GitHub and collected using
 AutoLab. AutoLab will enable auto-grading and feedback for students to
 help them finalize submissions. Grades will be returned within one
 week of homework due dates.
 
+You will have 12 late days that you may use throughout the semester.
+You can use them all on one assignment or spread them out over
+multiple assignments. Leftover late days will be converted to extra
+credit at a value of 0.5% per remaining late day (maximum extra credit
+for 12 late days is 6%). If you use all your late days, and submit
+late you will be penalized by 25 points per day. Each assignment is
+worth 100 points so this means using all your late days and submitting
+two days late will result in a maximum score of 50 points (or 50%).
+
+This late day policy exists to help students avoid potential
+situations where multiple complex assignments from different classes
+are all due at approximately the same time. This policy also ensures
+flexibility for students who have external deadliens (e.g., paper
+submissions).
+
 # Project
 Students will be required to work together in teams of 2-4 to complete
 a group project. The project will be worth 10% of the final grade.  2%
 of that grade will come from group formation and uploading a project
-proposal by Feb. 20 containing bullet points of the motivation,
-related work, approach, evaluation, and anticipated results. 2% of the
-grade will come from uploading a checkpoint document by March 18. The
-remaining 6% will come from the final project presentation, which is
+proposal by Mar. 10 containing bullet points of the motivation,
+related work, approach, evaluation, and anticipated results. The
+remaining 8% will come from the final project presentation, which is
 scheduled on the last 3 days of class.
 
 ## Previous Course Offerings
